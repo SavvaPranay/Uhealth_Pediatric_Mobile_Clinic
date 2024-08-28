@@ -1,1 +1,3 @@
 # Uhealth_Pediatric_Mobile_Clinic
+This project focuses on developing a relational database system for the UHealth Miami Pediatric Mobile Clinic, a multidisciplinary mobile clinic offering healthcare services to uninsured children in the Miami-Dade area. The database is designed to enhance the clinic's operational efficiency by streamlining the management of Electronic Health Records (EHRs), patient appointments, medical records, billing, and more. Utilizing MySQL, the project includes a comprehensive entity-relationship diagram, SQL code for database implementation, and queries tailored to improve data-driven decision-making in a pediatric healthcare setting.
+
